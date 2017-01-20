@@ -1,0 +1,22 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "test_location_delete_me"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [478.5, 56.0],
+                [502.0, 41.0],
+                [475.0, 36.0],
+                [478.5, 56.0]
+            ]
+        ]
+    }
+}
